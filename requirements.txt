@@ -1,0 +1,11 @@
+Django
+django-cors-headers
+django-filter
+djangorestframework
+djangorestframework-simplejwt
+Pillow
+Gunicorn
+Requests
+BeautifulSoup4
+google-auth
+python-dotenv
